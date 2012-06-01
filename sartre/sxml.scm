@@ -1,5 +1,6 @@
 (library (sartre sxml)
-         (export list->html-table
+         (export sxml->xml
+                 list->html-table
                  make-sxml-table
                  make-sxml-table-row
                  make-sxml-table-column)
