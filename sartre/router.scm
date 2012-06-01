@@ -7,7 +7,7 @@
                  (web request)
                  (web response)
                  (web uri)
-                 (srfi srfi-13)
+                 (srfi :13)
                  (ice-9 pretty-print)
                  (ice-9 format))
 

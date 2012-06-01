@@ -6,7 +6,7 @@
                  make-sxml-table-column)
 
          (import (rnrs (6))
-                 (srfi srfi-13)
+                 (srfi :13)
                  (sxml simple))
 
          (define (list->html-table table port)
