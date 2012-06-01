@@ -1,4 +1,5 @@
-(import (sartre sxml)
+(import (rnrs (6))
+        (sartre sxml)
         (sartre router))
 
 (define framework-list
